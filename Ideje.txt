@@ -1,0 +1,6 @@
+Ovdje ću napisati par ideja za temu:
+
+1. zločini u SAD-u (ubojstva,silovanja,... po states ili po godinama?)
+2. rak (dojke? u hrvatskoj ili u svijetu? možda usporedba s razvijenošću zemalja?)
+3. fibonacci (mozda nesto na temu brojeva i kako se očituju drugdje (priroda?))
+4. filmovi -> ocjene po žanrovima i možda predviđanje neke ocjene za budući film datog žanra?
