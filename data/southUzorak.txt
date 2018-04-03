@@ -1,0 +1,200 @@
+Abbeville	2610	9	0	3
+Aberdeen	7332	12	0	0
+Adairsville	4761	6	0	0
+Albemarle	15995	80	1	0
+Albertville	21534	30	0	7
+Alexandria	152710	312	4	18
+Aliceville	2367	6	0	0
+Andrews	1756	9	0	0
+Atlanta	464710	5203	94	0
+Atlantic Beach	369	0	0	0
+Atlantic Beach	13126	47	0	4
+Avondale Estates	2861	0	0	0
+Bainbridge	12449	53	1	0
+Baldwin	2344	1	0	0
+Beaufort	4230	13	0	0
+Bedford	6437	30	0	7
+Benwood	1369	0	0	0
+Berea	14894	14	0	5
+Bernice	1645	1	0	0
+Boaz	9740	107	0	6
+Branchville	992	3	0	0
+Breaux Bridge	8372	26	0	0
+Brent	4866	16	2	1
+Brookland	3499	12	0	1
+Brooklet	1423	2	0	0
+Bunn	360	1	0	0
+Butner	7747	23	0	0
+Byhalia	1265	10	0	0
+Cabot	26064	47	0	8
+Carbon Hill	1969	10	0	1
+Centerville	3585	18	0	2
+Centerville	7684	20	0	0
+Chapel Hill	1464	4	0	0
+Charleston	132585	342	16	43
+Cherokee Village	4568	3	0	2
+Chickasaw	5954	46	1	6
+Childersburg	5044	74	1	1
+Clanton	8751	61	1	0
+Claremont	1362	2	0	0
+Clayton	19024	28	0	0
+Clinton	8820	50	5	0
+Cloverport	1146	0	0	0
+Cocoa	17486	334	4	36
+Commerce	6584	28	0	0
+Cookeville	31509	143	0	17
+Cooper City	36708	32	1	7
+Covington	41056	175	2	33
+Cowan	1713	4	0	0
+Crump	1401	4	0	1
+Cuthbert	3710	3	0	0
+Davidson	12247	10	1	0
+Davisboro	1711	0	0	0
+Decaturville	868	3	0	1
+Decherd	2458	12	0	5
+Delray Beach	66159	426	3	25
+Denham Springs	10067	65	1	1
+Dermott	2722	8	0	1
+Dover	1401	3	0	2
+Dresden	2887	10	0	0
+Durham	257911	2185	34	0
+Edgefield	4710	11	0	1
+Elizabethton	14265	57	0	6
+Ethridge	471	4	0	0
+Fairfield Bay	2265	9	0	1
+Fairhope	18821	39	0	2
+Fayetteville	16871	22	1	0
+Flippin	1349	5	0	3
+Florence	4345	0	0	0
+Flowery Branch	6565	10	0	0
+Forest Park	19069	181	2	0
+Fort Valley	8750	96	1	0
+Franklin	8489	33	2	10
+Gadsden	36148	364	3	32
+Gastonia	74196	531	6	0
+Gibson	374	2	0	0
+Glencoe	5175	9	0	1
+Glenwood	2168	5	0	0
+Greenland	1397	3	0	1
+Greensboro	285950	1707	26	0
+Greenville	861	3	0	0
+Guntersville	8395	32	0	7
+Haleyville	4111	19	0	4
+Hallandale	39524	203	2	12
+Harahan	9347	11	0	0
+Harlan	1649	4	0	0
+Harlem	2960	2	0	0
+Harrison	468	0	0	0
+Highlands	927	4	0	0
+Homestead	66757	893	7	39
+Honaker	1388	0	0	0
+Hope	9986	84	2	10
+Hudson	3715	12	0	0
+Hurt	1276	1	0	0
+Jacksonville	867258	5622	97	471
+Jamestown	1937	3	0	0
+Jasper	3310	8	0	0
+Jennings	864	0	0	0
+Jonesville	864	15	0	0
+Key Biscayne	13060	5	0	0
+King	6883	14	0	0
+La Follette	7055	43	1	1
+Lake Clarke Shores	3540	6	0	0
+Lake Providence	3783	41	0	1
+Lantana	11088	51	0	8
+Latta	1339	18	0	0
+Lexington	314077	1044	15	163
+Lineville	2305	18	0	1
+Lumpkin	1094	0	0	0
+Madison	4010	10	1	0
+Maiden	3363	11	0	0
+Margate	56740	115	2	2
+Marion	755	3	0	1
+Marksville	5515	93	0	0
+Marmaduke	1231	5	0	1
+Martinsville	13667	51	1	4
+Mascotte	5405	16	0	2
+Mason	1598	0	0	0
+Maumelle	17943	28	4	2
+Maxton	2460	18	4	0
+Mayfield	10141	24	0	3
+McKee	783	0	0	0
+Memphis	657936	11449	135	530
+Miami	437969	4473	75	80
+Miami Beach	92641	998	2	54
+Middlesex	815	2	0	0
+Midway	3366	4	0	0
+Milan	7827	52	0	0
+Millbrook	15297	55	0	8
+Monroe	13764	115	0	0
+Monteagle	1171	6	1	0
+Moorefield	2493	17	0	0
+Mount Jackson	2046	1	0	0
+Mountain View	2862	17	0	7
+Mulberry	1618	10	0	1
+Nashville Metropolitan	658029	7245	72	507
+Natchez	15142	48	3	0
+New Market	2212	1	0	0
+New Orleans	393447	3736	164	409
+Newnan	36954	207	4	0
+Newport	6865	93	0	2
+Newton	1463	4	0	0
+Niceville	14828	18	0	1
+North Palm Beach	12597	11	0	1
+North Port	61148	101	1	24
+Northport	25032	97	1	19
+Norton	4037	14	0	7
+Obion	1078	5	1	0
+Ocean Springs	17565	38	2	1
+Oliver Springs	3233	9	0	0
+Opelousas	16580	196	1	13
+Orange	4947	6	0	1
+Orlando	268438	2525	32	182
+Owenton	1511	1	0	0
+Pacolet	2337	10	0	1
+Pageland	2742	30	1	2
+Palmetto Bay	24773	61	0	7
+Patterson	747	0	0	0
+Pembroke	2434	7	0	0
+Perry	7036	86	0	5
+Pinetops	1329	9	0	0
+Port Orange	59294	53	1	2
+Portland	12396	57	0	2
+Quincy	7849	50	1	1
+Quitman	746	2	0	1
+Rainsville	5026	10	0	3
+Russell	3244	3	0	1
+Russellville	29197	148	0	15
+Rutledge	1176	1	0	0
+Saltillo	505	0	0	0
+Selmer	4543	34	0	0
+Shannon Hills	3815	5	0	0
+Shelbyville	21205	154	1	7
+Spencer	1629	3	0	0
+Springville	4223	7	1	1
+St Augustine	14052	110	2	8
+St Augustine Beach	6838	4	0	0
+Stanton	2686	1	0	0
+Summit	1678	1	0	0
+Tampa	364383	2298	34	77
+Tarrant	6225	108	2	9
+Tazewell	4439	5	0	2
+Tennille	1731	7	0	0
+Titusville	44752	405	7	46
+Trenton	2028	9	0	0
+Tunnel Hill	875	1	0	0
+Turbeville	808	2	0	1
+Tyronza	751	1	0	0
+Vilonia	4469	12	0	0
+Virginia Beach	452797	626	19	103
+Waynesboro	2414	7	0	0
+Weiner	692	0	0	0
+Weirton	19273	24	1	6
+Westmoreland	2300	5	0	0
+White Castle	1850	3	0	0
+Whiteville	4530	7	0	0
+Wilmore	6179	2	0	2
+Winchester	27821	72	0	23
+Windermere	3240	18	0	13
+Worthington	1580	0	0	0
+Yemassee	986	14	0	0

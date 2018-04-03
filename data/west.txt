@@ -1,0 +1,1334 @@
+Los Angeles	3.962.726	25.156	282	2.209
+Las Vegas	1.562.134	14.383	127	1.107
+Phoenix	1.559.744	9.261	112	1.016
+San Diego	1.400.467	5.582	37	566
+San Jose	1.031.458	3.400	30	375
+Honolulu	999.307	2.437	15	318
+San Francisco	863.782	6.710	53	344
+Seattle	683.700	4.093	23	144
+Denver	682.418	4.599	53	548
+Albuquerque	559.721	5.406	43	
+Tucson	529.675	3.472	31	422
+Fresno	520.837	2.871	39	167
+Sacramento	489.717	3.611	43	105
+Long Beach	476.318	2.766	36	177
+Mesa	471.034	1.972	16	241
+Colorado Springs	452.410	1.983	25	341
+Oakland	419.481	6.051	85	285
+Bakersfield	373.887	1.810	22	71
+Aurora	360.237	1.660	24	352
+Anaheim5	349.471	1.271	18	129
+Santa Ana5	337.304	1.626	12	154
+Riverside	323.064	1.441	10	137
+Stockton	304.890	4.122	49	135
+Anchorage	301.239	3.226	26	517
+Henderson	282.554	476	4	98
+Chula Vista	265.215	705	6	63
+Chandler	258.875	490	1	79
+Irvine5	258.198	144	2	27
+Gilbert	247.324	177	2	28
+Glendale	240.374	943	13	94
+Reno	239.721	1.419	15	136
+North Las Vegas	234.386	2.130	14	89
+Scottsdale	233.872	434	6	106
+Fremont	232.427	337	2	49
+Boise	218.844	676	1	151
+San Bernardino	216.477	2.697	44	98
+Spokane	212.698	1.111	12	
+Santa Clarita	211.132	351	7	34
+Modesto	210.794	2.025	25	85
+Oxnard	207.221	920	12	21
+Fontana	206.982	804	3	46
+Tacoma	206.884	1.694	12	147
+Moreno Valley	205.182	643	6	33
+Huntington Beach	203.233	420	0	52
+Glendale5	202.298	195	5	17
+Salt Lake City	191.992	1.642	8	291
+Rancho Cucamonga	176.376	264	3	36
+Oceanside	176.319	702	9	68
+Garden Grove5	176.041	504	4	41
+Santa Rosa5	175.738	606	4	89
+Tempe	175.556	721	7	101
+Vancouver	171.076	671	2	112
+Ontario	170.274	547	3	31
+Peoria	170.222	283	1	31
+Elk Grove	166.183	586	1	33
+Corona	163.633	212	5	30
+Salem	163.320	537	5	44
+Lancaster	162.095	1.005	7	82
+Eugene	161.608	513	4	87
+Fort Collins	159.629	313	2	27
+Palmdale	159.613	830	7	44
+Salinas	158.185	1.098	40	76
+Hayward	157.157	556	10	71
+Pomona5	154.410	792	10	72
+Sunnyvale	152.443	158	1	29
+Escondido	151.732	529	7	48
+Lakewood	151.311	859	6	140
+Torrance5	149.243	214	2	34
+Pasadena5	141.815	428	4	57
+Fullerton5	140.771	389	0	66
+Orange5	140.572	172	7	11
+Bellevue9	138.532	152	2	19
+West Valley6	135.744	766	8	126
+Thornton7	133.188	325	4	90
+Roseville	131.039	239	0	23
+Visalia	130.405	608	6	106
+Thousand Oaks	129.976	136	0	26
+Concord	128.767	491	4	29
+Surprise	128.525	168	2	17
+Simi Valley5	127.472	174	1	24
+Kent	127.259	338	5	61
+Santa Clara	123.562	156	1	20
+Victorville	123.332	777	6	49
+Vallejo	121.257	1.031	18	102
+Berkeley	120.387	530	1	44
+El Monte5	117.376	400	8	21
+Arvada	115.379	156	2	
+Provo	115.294	153	0	60
+Downey5	114.754	335	7	23
+Carlsbad	113.972	172	0	33
+Westminster	113.547	277	1	50
+Costa Mesa5	113.477	386	1	53
+West Jordan	112.687	305	0	21
+Fairfield	112.582	486	8	46
+Inglewood5	112.450	775	7	44
+Temecula	111.673	114	1	8
+Antioch	110.537	771	7	53
+Ventura	110.077	374	2	53
+Billings	109.997	484	9	65
+Murrieta	109.495	69	0	6
+West Covina	109.030	263	2	13
+Centennial	108.846	137	1	46
+Pueblo	108.810	986	12	170
+Everett9	107.633	422	5	44
+Norwalk	107.470	400	9	33
+Daly City	107.320	234	0	26
+Boulder	106.823	222	2	47
+Burbank	105.865	159	1	10
+Santa Maria	104.355	463	13	50
+San Mateo	104.306	266	2	11
+El Cajon	103.942	360	2	50
+Clovis	103.769	239	1	26
+Rialto	103.590	423	3	34
+Las Cruces	102.227	268	3	
+Renton	100.015	300	4	41
+Greeley	99.993	455	1	76
+Jurupa Valley	99.706	260	6	5
+Compton	99.125	988	13	33
+Vista	99.097	343	2	37
+Mission Viejo	98.217	86	1	14
+South Gate5	96.775	561	2	24
+Vacaville	96.693	249	0	20
+Sparks	95.815	359	2	54
+Rio Rancho	95.329	207	3	
+San Marcos	95.314	171	3	17
+Federal Way	94.424	368	4	43
+Yuma	93.923	453	5	46
+Yakima	93.798	514	7	51
+Santa Monica	93.796	445	1	42
+Carson	93.677	433	7	14
+Hesperia	93.348	302	3	18
+Westminster	92.640	303	1	22
+Orem	92.577	40	1	
+Spokane Valley	92.157	235	0	
+Redding	92.020	614	2	50
+Sandy	92.013	172	2	38
+Santa Barbara5	91.877	363	1	62
+Meridian	91.077	97	1	17
+San Leandro	90.438	412	1	23
+Chico5	89.949	317	2	59
+Nampa	89.875	315	6	82
+Hawthorne5	88.410	628	6	35
+Livermore	88.316	233	3	20
+Whittier5	87.807	238	1	18
+Newport Beach	87.749	112	2	20
+Indio	87.195	585	5	28
+Menifee	87.051	125	2	0
+Kirkland	87.040	77	0	21
+Citrus Heights	86.853	385	4	36
+Tracy	86.477	154	1	19
+Chino	86.344	221	0	21
+Alhambra5	86.175	168	1	13
+Bend	86.042	134	2	38
+Ogden	84.642	388	4	112
+Redwood City	84.415	190	1	28
+Hemet	84.030	605	10	33
+Bellingham	83.976	214	1	47
+Buena Park5	83.684	237	1	19
+Merced	82.409	763	11	31
+Lakewood	82.047	222	3	15
+Tustin5	81.953	130	1	10
+Lake Forest	80.798	109	0	15
+Napa	80.749	298	0	38
+Mountain View	80.705	164	0	10
+Avondale	80.533	279	8	40
+St. George	79.984	116	0	25
+Pleasanton	79.611	86	0	13
+Medford	79.461	393	1	33
+Bellflower	78.635	373	1	21
+Alameda	78.613	148	2	7
+Goodyear	78.447	143	1	18
+Kennewick	78.214	155	3	42
+Auburn	77.914	318	7	31
+Baldwin Park5	77.538	299	1	34
+Chino Hills	77.515	70	0	7
+Upland	76.581	232	4	21
+Folsom	76.183	71	1	15
+San Ramon	76.081	27	0	4
+Milpitas	75.520	77	1	9
+Perris	75.036	178	3	1
+Manteca	75.019	213	5	10
+Union City	74.648	265	3	3
+Loveland	74.139	171	2	28
+Layton	73.455	115	1	35
+Lynwood	72.398	414	5	18
+Apple Valley	72.173	234	1	15
+Turlock5	71.895	380	2	16
+Redlands	71.078	212	2	34
+Rancho Cordova	70.955	344	5	17
+Santa Fe	70.845	311	2	
+Missoula	70.553	372	4	66
+Pasco	70.458	159	3	23
+Flagstaff	69.471	260	0	35
+Pittsburg	69.340	225	5	23
+Yorba Linda	68.698	39	0	7
+Walnut Creek	68.530	91	1	2
+Redondo Beach	68.492	185	2	19
+South San Francisco	67.843	157	1	28
+Palo Alto5	67.560	68	2	13
+Camarillo	67.325	114	2	16
+Davis	67.034	95	2	16
+Marysville9	66.374	112	0	18
+South Jordan	66.049	36	0	11
+Laguna Niguel	66.035	49	2	6
+Yuba City	65.974	216	0	28
+San Clemente	65.755	79	1	19
+Pico Rivera	64.551	199	4	16
+Lodi5	64.369	377	4	12
+Montebello5	64.280	158	3	6
+Madera	64.127	450	3	18
+Santa Cruz5	64.076	499	2	44
+Broomfield	63.935	37	1	18
+Cheyenne	63.619	122	7	13
+Encinitas	62.909	126	0	13
+La Habra5	62.488	104	0	7
+Tulare	62.475	303	10	16
+Lake Elsinore	61.871	137	0	8
+Monterey Park5	61.750	103	0	6
+Buckeye	61.726	28	2	1
+Casper	61.355	85	1	8
+Cupertino	61.162	63	0	8
+Rocklin	61.105	64	0	19
+Gardena5	60.782	301	6	24
+National City	60.768	327	2	16
+Redmond	60.542	64	0	9
+Grand Junction	60.508	257	0	66
+Springfield	60.485	201	8	27
+Petaluma	60.450	244	0	39
+Lakewood	59.958	414	0	43
+La Mesa	59.676	196	3	15
+Huntington Park	59.668	386	1	35
+San Rafael	59.598	236	0	27
+Great Falls	59.252	153	4	13
+Idaho Falls	59.109	167	2	29
+Arcadia	58.694	68	1	6
+Lehi	58.526	50	0	
+Brentwood	58.398	110	0	17
+Santee	57.934	86	1	11
+Woodland	57.911	265	1	16
+Eastvale	57.808	40	0	3
+Castle Rock	57.699	46	1	18
+Fountain Valley5	57.392	66	1	2
+Dublin	57.148	68	0	5
+Diamond Bar	57.085	58	1	4
+Novato	55.782	103	2	9
+Porterville	55.760	186	2	12
+Paramount	55.727	283	1	10
+Shoreline	55.690	74	0	
+Hanford5	55.299	315	1	23
+Rosemead	55.231	155	2	9
+Corvallis	55.100	69	1	25
+Highland	55.011	202	2	20
+Colton	54.503	185	3	11
+Pocatello	54.286	197	1	21
+Richland	54.218	75	0	16
+Cathedral City	53.947	117	3	13
+Watsonville	53.581	303	4	33
+Yucaipa	53.498	94	2	8
+Gilroy	53.467	192	2	31
+Commerce City	53.261	225	0	48
+Lake Havasu City	53.220	93	0	30
+Placentia5	52.753	76	0	5
+West Sacramento	52.622	311	2	21
+Delano	52.534	219	4	9
+Albany	52.394	41	2	
+Sammamish	52.365	12	0	
+Casa Grande	51.918	244	2	12
+Palm Desert	51.847	117	0	3
+Glendora5	51.753	55	0	6
+Caldwell	51.206	95	0	6
+Parker	51.017	55	0	13
+Aliso Viejo	50.751	32	0	5
+Burien	50.701	199	0	
+Poway	50.327	44	1	6
+Cerritos	50.238	91	0	7
+Charleston	50.176	622	8	54
+Olympia	49.875	203	0	26
+Rancho Santa Margarita	49.719	44	0	8
+La Mirada	49.685	74	0	9
+Cypress5	49.560	56	0	3
+Azusa	49.431	173	2	13
+Murray	49.361	291	3	62
+Covina5	49.300	108	1	8
+Logan	49.145	50	0	29
+Coeur d'Alene	48.871	198	1	40
+Roswell	48.633	318	8	
+Maricopa	48.193	83	2	3
+Ceres	47.693	122	0	10
+Palm Springs	47.388	279	3	24
+Draper	47.200	42	1	15
+San Luis Obispo	47.116	193	0	34
+Twin Falls	47.048	151	2	37
+San Jacinto	47.022	133	0	5
+Lincoln	46.663	28	0	6
+Lacey	46.193	97	0	22
+Littleton	45.363	43	0	19
+Newark	45.258	101	1	8
+Coachella	44.953	153	3	3
+Danville	44.401	16	1	2
+Farmington	44.076	187	3	
+El Centro5	44.033	164	1	10
+Beaumont	43.626	138	1	17
+Bountiful	43.570	62	1	24
+San Bruno	43.499	105	0	11
+Sierra Vista	43.452	107	2	8
+Bell Gardens5	43.411	137	0	6
+Morgan Hill5	43.154	71	1	4
+Rancho Palos Verdes	42.993	41	1	4
+Bozeman	42.826	114	0	32
+Rohnert Park	42.622	207	0	23
+Oro Valley	42.258	27	0	4
+Burlington	42.160	99	1	15
+Brea5	42.043	80	0	2
+Prescott Valley	41.661	97	1	9
+Campbell	41.544	88	1	11
+Prescott	41.393	137	4	11
+Marana	41.302	30	2	5
+Edmonds9	41.187	63	0	8
+La Puente	40.958	119	0	7
+San Gabriel5	40.714	89	1	4
+La Quinta	40.554	80	1	6
+Clovis	40.265	170	1	
+Oakley	40.163	68	2	6
+Calexico5	40.085	169	0	2
+Culver City	39.890	156	0	4
+Puyallup	39.645	107	3	13
+Pacifica	39.531	68	0	18
+Bullhead City	39.319	89	1	1
+Northglenn	39.299	106	0	22
+American Fork/Cedar Hills	38.945	27	0	
+Stanton	38.921	152	0	14
+Montclair	38.899	221	4	20
+Bremerton	38.755	207	1	36
+Apache Junction	38.519	96	0	3
+Spanish Fork	38.168	12	0	1
+Roy	38.104	63	3	37
+Pleasant Grove	37.963	18	0	6
+Martinez	37.923	51	0	4
+Hobbs	37.916	275	1	
+Monrovia	37.618	47	2	4
+Hollister	37.604	137	0	16
+Brighton	37.511	135	0	34
+Keizer	37.488	55	0	6
+Los Banos	37.395	131	1	4
+Bothell	37.346	34	0	2
+Lynnwood9	36.885	81	1	5
+San Juan Capistrano	36.666	66	0	12
+Temple City	36.524	66	1	10
+Longview	36.401	142	1	27
+Bell	36.395	221	1	17
+Claremont5	36.331	64	1	12
+West Hollywood	36.256	280	2	19
+Wildomar	36.154	39	0	7
+Manhattan Beach5	36.065	70	0	8
+Moorpark	35.804	35	0	4
+Grants Pass	35.411	122	1	15
+Central Marin	35.272	40	0	8
+Beverly Hills5	35.054	99	1	9
+Issaquah	34.999	10	0	0
+San Dimas	34.955	81	1	7
+Pleasant Hill	34.829	74	0	2
+Seaside	34.459	97	0	7
+Cottonwood Heights	34.349	46	0	
+Dana Point	34.312	57	0	9
+El Mirage	33.985	81	1	4
+McMinnville	33.699	71	1	12
+Menlo Park5	33.619	32	0	9
+Lawndale	33.605	196	0	9
+Wenatchee	33.525	52	0	15
+Mount Vernon	33.474	73	1	13
+Foster City5	33.313	20	1	1
+Adelanto	33.005	212	2	14
+Tooele	32.789	154	0	56
+Fairbanks	32.677	157	1	14
+Lewiston	32.621	75	2	24
+La Verne5	32.595	68	0	29
+University Place	32.577	69	0	11
+Gillette	32.502	48	0	0
+Juneau	32.482	285	4	73
+Laramie	32.375	43	1	10
+Pullman	32.174	33	1	7
+Walla Walla	31.940	175	4	18
+Springville	31.920	37	0	
+San Luis	31.807	54	0	3
+Paso Robles5	31.659	62	0	4
+Morgantown	31.621	81	0	12
+Des Moines	31.335	112	3	18
+Wheat Ridge	31.241	100	1	14
+Saratoga	31.239	18	1	6
+Alamogordo	31.151	116	3	
+Laguna Hills	31.139	43	0	8
+Los Gatos	31.044	31	0	7
+Banning	31.030	197	8	29
+Goleta	31.011	47	0	9
+Parkersburg	30.885	71	2	13
+Lake Stevens	30.815	65	0	10
+Santa Paula5	30.710	96	1	11
+Burlingame	30.672	45	1	6
+Los Altos	30.598	6	0	4
+Clearfield	30.557	41	1	10
+Walnut	30.469	31	1	1
+Post Falls	30.461	49	0	7
+Helena	30.363	194	1	42
+San Pablo	30.290	230	2	8
+Kaysville6	30.008	12	0	3
+East Palo Alto5	29.864	181	4	20
+Cedar City	29.623	81	0	
+Suisun City	29.539	81	1	5
+Atascadero5	29.316	90	0	11
+Atwater	29.219	197	3	8
+Ridgecrest	28.989	136	1	15
+Kingman	28.651	77	1	9
+Carlsbad	28.594	161	2	
+Monterey	28.491	136	3	13
+SeaTac	28.418	169	5	
+Desert Hot Springs	28.416	232	7	16
+Redmond	28.384	75	1	14
+Lone Peak	28.229	7	0	
+Benicia	28.159	29	0	7
+Maywood	28.070	73	2	6
+Sahuarita	28.067	13	0	2
+Fountain	28.031	103	0	22
+Lafayette6	27.761		0	17
+Wheeling	27.617	247	1	13
+Windsor	27.565	85	0	9
+Rexburg	27.499	12	0	2
+Belmont	27.377	26	1	3
+Imperial Beach	27.341	88	0	5
+Syracuse	27.202	16	0	7
+Florence	26.926	34	1	3
+Norco	26.925	49	0	4
+Eureka5	26.858	166	3	23
+Lemon Grove	26.798	161	0	12
+Paradise5	26.514	52	1	9
+South Pasadena5	26.287	30	0	3
+Saratoga Springs	26.260	14	0	4
+Twentynine Palms	26.105	86	2	8
+Brawley5	26.023	146	1	8
+Newberg-Dundee	26.022	24	0	14
+Lafayette	25.886	14	0	2
+Maple Valley	25.741	23	0	
+Reedley	25.711	174	1	17
+Lemoore5	25.348	118	0	17
+Hercules	25.326	31	1	1
+Soledad	25.170	53	3	3
+Coronado	25.138	26	0	5
+Galt	25.106	70	1	13
+South Salt Lake	25.020	227	1	51
+Moscow	24.999	16	3	0
+Sanger	24.933	120	1	13
+Woodburn	24.897	45	0	4
+El Cerrito	24.842	97	1	2
+San Fernando5	24.823	94	0	4
+Seal Beach5	24.800	24	0	1
+Mercer Island	24.737	5	0	2
+Washington	24.646	30	0	20
+Selma	24.532	188	4	16
+Calabasas	24.505	15	0	5
+Cudahy	24.410	78	1	6
+Rock Springs	24.314	86	0	31
+Dinuba5	24.223	175	1	5
+Riverbank5	24.061	35	1	3
+Loma Linda	23.985	27	0	3
+Barstow	23.700	283	2	12
+Laguna Beach5	23.485	76	0	8
+Bainbridge Island	23.351	10	0	1
+Farmington	23.198	16	0	6
+Gallup	22.623	352	1	
+Corcoran5	22.435	104	0	4
+Oak Harbor	22.336	20	0	5
+Port Hueneme	22.249	61	2	11
+Kenmore	22.176	14	0	
+Duarte	22.171	72	0	3
+Oakdale	22.137	43	0	6
+Moses Lake	22.026	110	1	20
+Kalispell	21.932	57	0	11
+Roseburg	21.906	51	1	10
+Windsor	21.736	8	1	2
+Camas	21.674	17	0	7
+Yucca Valley	21.672	151	0	
+South Lake Tahoe5	21.558	65	0	5
+Patterson5	21.410	50	0	2
+Clinton	21.256	11	0	0
+Mukilteo9	21.171	27	0	2
+Klamath Falls	21.145	84	1	
+Erie	21.096	19	0	7
+Marina	21.094	51	3	5
+Mountlake Terrace	21.051	32	1	2
+Essex	21.004	9	0	2
+Agoura Hills	20.970	15	0	1
+Evans	20.955	56	0	5
+Arvin	20.902	149	3	1
+Lomita	20.893	67	1	5
+Ashland	20.834	30	0	2
+Elko	20.817	85	2	26
+La Canada Flintridge	20.763	20	1	7
+American Canyon5	20.687	58	1	7
+South El Monte	20.679	125	6	6
+Louisville	20.556	16	0	8
+Golden	20.448	28	0	7
+Nogales	20.312	20	0	0
+Tukwila	20.116	151	1	22
+Hermosa Beach5	19.986	44	0	7
+North Salt Lake	19.953	15	0	1
+Albany	19.723	34	1	6
+Payson	19.563	11	0	
+Covington	19.532	26	1	
+Mill Creek	19.441	21	1	2
+Dixon	19.357	54	1	5
+Orinda	19.311	5	0	0
+Port Angeles	19.304	90	0	21
+Pinole	19.284	72	0	0
+Weirton	19.273	24	1	6
+Battle Ground	19.239	32	1	7
+Tumwater	19.193	70	0	9
+Bonney Lake	19.180	26	0	3
+Montrose	19.028	23	0	2
+Arlington9	19.018	33	0	3
+Chowchilla	18.978	74	0	2
+Blythe	18.961	90	1	7
+South Burlington	18.946	25	0	6
+Ellensburg	18.899	26	0	5
+Fairmont	18.741	31	2	6
+North Ogden	18.373	20	0	16
+Rancho Mirage	18.156	41	0	4
+Durango	18.095	45	1	14
+Arroyo Grande5	18.071	35	0	2
+Monroe	18.046	68	1	8
+Sheridan	18.030	25	0	2
+Santa Fe Springs5	17.867	85	1	4
+Martinsburg	17.861	91	1	5
+Central Point	17.860	32	1	4
+Arcata5	17.789	54	2	7
+Shafter	17.690	63	1	6
+Colchester	17.452	19	0	4
+Mesquite	17.412	34	0	21
+Imperial5	17.338	5	0	1
+Moraga	17.284	7	0	1
+Hermiston	17.221	28	1	5
+Centerville6	17.201	23	0	13
+El Segundo5	17.164	41	1	1
+Beckley	17.137	234	3	22
+Greenfield	17.061	101	2	3
+Artesia	16.988	84	0	2
+Pendleton9	16.969	42	0	15
+South Ogden	16.922	26	0	11
+Eloy	16.678	89	1	8
+Centralia	16.632	63	1	14
+Laguna Woods5	16.501	5	0	0
+Anacortes	16.351	13	0	3
+Truckee	16.331	20	0	2
+Oroville5	16.289	108	0	17
+Sunnyside	16.198	25	2	3
+Aberdeen	16.100	96	1	10
+Lebanon	16.097	47	0	8
+Coalinga	16.073	105	0	9
+Coos Bay	16.056	94	3	
+La Palma5	16.001	13	0	0
+Ukiah	15.969	153	1	18
+Rutland	15.814	53	0	3
+Greenwood Village	15.760	69	0	11
+Pacific Grove	15.734	7	0	1
+Sunland Park	15.700	14	0	
+Fillmore	15.519	82	1	10
+Boulder City	15.481	13	0	1
+Hurricane	15.361	25	0	6
+Bennington	15.355	39	0	4
+Los Lunas	15.251	132	0	
+Payson	15.228	39	1	3
+Dallas	15.224	26	0	3
+Washougal	15.220	24	0	2
+The Dalles	15.210	19	1	
+Ripon	15.126	16	0	4
+Parlier	15.106	95	1	11
+Somerton	15.061	22	0	0
+Susanville5	15.045	173	0	7
+Clearlake5	15.044	117	5	6
+Santa Clara/Ivins	14.715	3	0	0
+North Park	14.694	6	1	
+Hawaiian Gardens	14.629	86	2	2
+Kerman	14.595	33	0	0
+Sterling	14.574	63	0	28
+Deming	14.543	106	1	
+Mill Valley	14.527	4	0	0
+Johnstown	14.300	3	0	1
+Chubbuck	14.289	15	0	3
+Heber9	14.194	17	0	
+Lone Tree	14.184	30	0	4
+Auburn	14.118	45	0	2
+Red Bluff	14.045	118	0	13
+Livingston	14.007	58	1	6
+Paradise Valley	13.886	16	0	5
+McFarland	13.848	61	1	10
+Carpinteria	13.829	11	0	0
+King City	13.755	61	2	8
+Palos Verdes Estates	13.739	7	0	1
+West Richland	13.716	12	0	4
+Mountain Home	13.664	38	0	10
+Grover Beach5	13.589	33	0	4
+Lindsay5	13.579	59	1	4
+East Wenatchee	13.575	13	1	1
+Port Orchard	13.535	68	0	15
+San Marino5	13.491	17	0	1
+Lynden	13.464	12	0	2
+Solana Beach	13.448	15	0	1
+Las Vegas	13.389	144	1	
+Lake Forest Park	13.327	8	0	1
+California City	13.218	121	0	5
+Snoqualmie	13.148	3	0	0
+South Charleston	13.143	112	2	6
+Commerce	13.137	93	2	10
+Malibu	13.033	25	0	8
+Ferndale	13.029	17	0	2
+La Grande	13.010	16	0	8
+Tehachapi	12.971	44	0	8
+Grass Valley	12.883	115	0	3
+Avenal5	12.859	25	2	1
+Fruita	12.790	22	1	4
+Green River	12.686	58	0	5
+Grand Terrace	12.502	27	1	1
+Federal Heights6	12.351	62	0	18
+Steamboat Springs	12.315	28	0	7
+Marysville	12.264	85	2	7
+Coolidge	12.244	59	0	7
+Portales	12.199	68	1	
+Evanston	12.146	15	0	5
+Lovington	12.062	31	0	
+Artesia	11.970	140	1	
+Scotts Valley5	11.926	22	0	3
+Firestone	11.880	4	0	1
+Clayton	11.879	11	0	0
+Fortuna5	11.876	36	0	4
+Kingsburg	11.813	28	0	2
+Los Alamitos5	11.789	18	1	3
+Blackfoot	11.784	53	0	14
+Kelso	11.756	70	0	15
+Santaquin/Genola	11.754	2	0	
+Healdsburg5	11.744	16	0	4
+Brattleboro	11.696	30	0	3
+Cottonwood	11.678	34	1	0
+Enumclaw	11.657	5	0	2
+Signal Hill	11.655	58	1	6
+Cheney	11.601	28	0	11
+Frederick	11.563	1	0	0
+Hillsborough	11.559	1	0	1
+Emeryville5	11.549	153	1	3
+Garden City	11.533	53	0	10
+Woodinville	11.476	14	0	
+Mendota	11.470	90	2	2
+Newcastle	11.413	2	0	
+Smithfield	11.375	3	0	
+Piedmont	11.372	12	0	3
+Vernal	11.346	30	0	4
+Jerome	11.254	30	0	5
+Sierra Madre	11.226	11	0	1
+Grandview	11.201	15	1	2
+Camp Verde	11.155	48	1	3
+Canyon Lake	11.112	7	0	0
+Sonoma5	11.107	32	0	1
+Riverton	11.013	43	1	7
+Ontario	10.887	23	0	
+Newman	10.881	16	0	2
+Show Low	10.878	21	0	2
+Lindon	10.876	8	0	4
+Farmersville	10.835	32	0	1
+Sedro Woolley	10.808	13	0	0
+St. Albans	10.786	43	0	4
+Milton	10.743	6	0	3
+Jackson	10.668	19	0	4
+Morro Bay	10.620	46	0	3
+Exeter5	10.611	26	0	1
+Placerville5	10.601	21	0	3
+Bluffdale	10.574	6	0	3
+Vienna	10.515	6	0	0
+Bluefield	10.445	68	1	5
+Sedona	10.340	14	0	3
+Anderson	10.277	88	0	4
+Capitola	10.201	28	0	2
+Espanola	10.100	265	1	
+Grantsville	10.071	13	0	4
+Monmouth	10.052	15	0	1
+Glenwood Springs	9.914	35	0	3
+Cottage Grove	9.884	25	0	
+Havre	9.873	61	0	11
+Edgewood	9.844	10	0	0
+Poulsbo	9.809	9	0	0
+Snowflake-Taylor	9.805	28	0	0
+Hartford	9.802	8	0	4
+Baker City	9.802	13	0	
+Safford	9.797	37	0	0
+Cody	9.789	11	0	1
+Shelton	9.758	45	0	5
+Sumner	9.737	19	0	2
+Orange Cove	9.715	15	1	0
+North Slope Borough	9.707	80	0	9
+Fife	9.642	93	0	12
+Snohomish	9.640	21	0	4
+Dupont	9.597	9	0	1
+Winslow	9.580	68	0	2
+Silverton	9.559	5	0	0
+Astoria	9.533	31	0	
+North Bend9	9.506	16	0	4
+Williston	9.346	5	0	0
+Mapleton	9.336	0	0	
+Tiburon5	9.288	9	0	0
+Port Townsend	9.288	34	0	4
+Grants	9.250	40	0	
+Rawlins	9.227	30	1	1
+Springfield	9.201	34	1	4
+Pleasant View	9.186	12	1	
+Sweet Home	9.108	12	0	
+Wasilla	9.099	38	0	1
+College Place	9.046	12	0	5
+Toppenish	9.001	38	3	4
+Liberty Lake	8.911	3	0	1
+Moundsville	8.852	31	0	1
+Miles City	8.851	12	1	1
+Sitka	8.850	14	0	0
+Cloverdale	8.839	15	0	2
+Eagle Point	8.821	16	0	5
+Taft	8.819	58	0	1
+Independence	8.805	18	0	3
+Waterford5	8.800	13	0	0
+Barre	8.786	13	1	1
+Gig Harbor	8.724	27	0	1
+Craig	8.698	11	0	4
+Delta	8.686	21	0	6
+Socorro	8.684	62	0	
+Cortez	8.631	14	0	2
+Riverdale	8.627	16	1	6
+Bernalillo	8.619	73	1	
+Burlington	8.610	19	1	1
+Yelm	8.592	30	0	2
+Middlebury	8.559	11	0	9
+Calimesa	8.553	17	0	0
+Westlake Village	8.522	6	0	2
+Florence	8.516	18	1	
+Gonzales	8.507	39	0	2
+Los Altos Hills	8.485	1	0	0
+Firebaugh	8.484	53	0	15
+Bridgeport	8.411	12	0	3
+Corrales	8.376	15	0	
+Hoquiam	8.307	14	0	1
+Rolling Hills Estates	8.296	9	0	0
+Fallon	8.292	38	0	5
+Ketchikan	8.286	31	1	6
+Price	8.269	11	0	5
+Rio Vista	8.250	32	0	0
+Winnemucca	8.144	18	0	0
+Oak Hill	8.138	11	0	0
+Ephrata	8.114	11	0	0
+Hailey	8.112	25	0	1
+Lincoln City	8.064	46	1	12
+Pismo Beach5	7.998	20	0	5
+Trinidad	7.995	28	0	2
+Mammoth Lakes	7.955	14	0	2
+Stayton	7.896	21	0	2
+Shelburne	7.890	3	0	0
+Duvall	7.882	2	0	0
+Belgrade	7.882	31	0	5
+Fort Lupton	7.874	12	0	4
+Sandpoint	7.860	7	0	0
+Barre Town	7.839	8	0	2
+Othello	7.785	20	0	3
+Ruidoso	7.774	24	0	
+Woodlake5	7.751	39	2	1
+Sutherlin	7.749	33	0	6
+Sebastopol5	7.725	8	0	1
+Dunbar	7.711	32	0	2
+Fairfax	7.686	13	0	6
+Kenai	7.680	52	3	20
+Lander	7.677	6	1	0
+Ojai	7.665	7	0	0
+Montpelier	7.629	13	0	5
+Hood River	7.556	3	0	0
+Orland5	7.549	22	2	1
+Corning	7.527	44	0	2
+Bloomfield	7.522	36	0	
+Yreka	7.507	47	1	4
+St. Johnsbury	7.507	9	0	2
+Richfield	7.506	8	0	
+Selah	7.505	1	0	0
+Quincy	7.499	23	0	3
+Page	7.469	50	0	7
+Cotati	7.469	32	0	10
+Escalon	7.449	11	0	0
+Salem	7.446	4	0	
+Milton	7.420	9	0	0
+Payette	7.408	22	0	6
+Orting	7.401	11	0	2
+Rathdrum	7.392	17	0	4
+Clarkston	7.387	29	2	5
+Hughson5	7.377	13	0	0
+Globe	7.333	75	0	0
+Guadalupe	7.318	9	0	1
+Fort Bragg	7.310	33	0	3
+Livingston	7.303	21	0	5
+Chehalis	7.261	17	0	0
+Winooski	7.219	19	0	0
+Atherton	7.205	3	0	1
+Pacific	7.199	9	0	3
+Woodland Park	7.191	11	0	3
+Sausalito	7.182	14	1	0
+Belen	7.148	121	1	
+Milton-Freewater	7.095	20	1	
+Tolleson	7.029	39	0	3
+Umatilla	7.026	17	0	2
+Winters	7.023	24	0	2
+Whitefish	6.997	11	0	3
+Laurel	6.988	13	0	1
+Roosevelt	6.970	51	1	31
+La Junta	6.926	13	0	5
+Gypsum	6.875	12	0	3
+Stanwood9	6.864	12	0	1
+St. Albans	6.847	34	0	4
+Aspen	6.841	6	0	1
+Huron	6.818	38	1	1
+Sidney	6.817	37	0	5
+Nitro	6.812	24	0	3
+Ione	6.804	7	0	1
+North Bend	6.779	5	0	1
+Sequim	6.767	9	0	2
+Torrington	6.762	19	0	0
+Wickenburg	6.760	14	0	5
+Fircrest	6.701	11	0	0
+Normandy Park	6.682	5	0	1
+Airway Heights	6.652	6	0	0
+Palmer	6.652	22	0	6
+Emmett	6.613	7	0	3
+Crescent City5	6.599	41	0	5
+Eagle	6.590	7	0	0
+Madras	6.590	25	1	6
+Gridley5	6.580	113	0	9
+Ephraim9	6.546	4	0	3
+Cherry Hills Village	6.530	2	0	0
+Brier	6.521	2	0	0
+Ridgefield	6.510	5	0	1
+Douglas	6.503	46	0	0
+Seaside	6.501	12	0	
+Bethel	6.497	94	2	20
+Monument	6.479	10	0	2
+Avon	6.465	20	1	5
+Swanton	6.447	17	0	1
+Powell	6.429	18	0	3
+Brookings	6.428	7	0	
+Talent	6.390	13	0	1
+Holtville5	6.376	15	0	0
+Princeton	6.353	37	1	2
+Kodiak	6.345	47	0	5
+Aztec	6.335	42	0	
+Estes Park	6.239	5	0	2
+Steilacoom	6.228	13	0	2
+Milliken	6.210	3	0	2
+Raton	6.196	16	2	
+Harrisville	6.185	11	0	
+Enoch	6.178	24	0	
+Fowler	6.144	46	0	2
+Northfield	6.090	4	0	0
+Willows	6.074	40	0	5
+St. Helena	6.028	9	0	1
+Union Gap	6.022	13	1	3
+Sheridan	6.018	29	1	4
+Truth or Consequences	6.007	31	2	
+Villa Park	6.002	1	0	0
+Gunnison	5.990	25	0	7
+Colusa5	5.937	6	0	2
+Lewistown	5.856	34	0	10
+Prosser	5.817	7	0	1
+Charles Town	5.816	2	0	0
+Taos	5.780	83	0	
+South Tucson	5.749	99	3	5
+Woodland	5.748	14	0	1
+Connell	5.746	7	0	3
+Gustine	5.726	25	0	1
+Rupert	5.705	14	0	4
+Buckhannon	5.690	3	0	0
+Ocean Shores	5.638	12	0	1
+Solvang	5.571	11	0	0
+Nephi	5.537	1	0	
+Glendive	5.524	21	0	5
+Homer	5.511	7	0	0
+La Habra Heights	5.500	2	0	1
+West Bountiful	5.488	9	0	8
+Salida	5.450	4	0	1
+Lochbuie	5.435	14	0	2
+Morristown	5.429	6	0	1
+Bear Valley5	5.428	5	1	1
+Manitou Springs	5.387	31	0	6
+Glendale	5.338	35	1	3
+Calistoga	5.338	11	1	2
+Vail	5.337	23	0	6
+Worland	5.335	1	0	0
+Winston	5.333	10	0	4
+Kensington	5.329	1	0	0
+Weiser	5.321	1	0	0
+Edgewater	5.321	24	0	4
+Indian Wells	5.279	5	0	0
+Preston	5.223	3	0	1
+Warrenton	5.218	0	0	
+Big Bear Lake	5.209	54	0	5
+Grafton	5.209	4	0	0
+Williams5	5.205	10	0	1
+Sunset	5.154	3	1	0
+Moab	5.148	20	0	7
+Dos Palos	5.112	50	1	7
+Waterbury	5.105	0	0	0
+Buellton5	5.097	4	0	1
+Thatcher	5.065	3	0	0
+Buckley	5.051	12	0	3
+Wapato	5.050	28	0	3
+Blaine	5.048	7	0	2
+Holbrook	5.007	38	1	1
+Needles	4.998	25	1	2
+Columbia Falls	4.983	9	0	0
+Tillamook	4.933	7	0	1
+Eaton	4.929	8	0	4
+Eagar	4.914	8	0	0
+Willits	4.856	66	0	4
+Omak	4.847	11	0	2
+Breckenridge	4.804	14	0	4
+Sultan9	4.797	9	0	1
+Lakeport	4.781	29	0	3
+Sonora5	4.779	42	0	5
+Randolph	4.750	4	0	1
+Colville	4.714	2	0	1
+Brisbane	4.696	9	0	1
+Hamilton	4.652	26	0	5
+Perry9	4.646	2	0	
+Dacono	4.640	1	0	0
+Polson	4.634	23	0	4
+Buffalo	4.623	13	0	0
+Mattawa	4.612	4	0	3
+Jackson5	4.593	15	0	0
+Castleton	4.587	0	0	0
+Philomath	4.558	3	0	
+Unalaska	4.554	10	0	2
+Phoenix	4.535	12	0	0
+Hinesburg	4.523	0	0	0
+Soldotna	4.512	30	0	5
+Kanab	4.494	8	0	1
+West Wendover	4.449	23	0	6
+Newport	4.447	6	0	3
+Stowe	4.435	3	0	1
+Black Diamond	4.383	3	0	2
+Broadmoor	4.382	16	0	0
+Shelley	4.371	4	0	1
+Silverthorne	4.370	4	0	2
+Del Mar	4.346	10	0	2
+Pinetop-Lakeside	4.323	50	0	3
+Manchester	4.295	6	0	1
+Mead	4.282	16	0	1
+Monte Vista	4.275	14	0	0
+American Falls	4.275	6	0	0
+Point Pleasant	4.268	5	0	0
+Buhl	4.257	9	0	3
+Dillon	4.244	6	0	0
+Barboursville	4.230	2	0	0
+La Verkin	4.189	6	0	
+Clarkdale	4.184	14	0	2
+Richmond	4.140	1	0	1
+Weston	4.075	0	0	0
+Reedsport	4.069	15	0	3
+Rigby	4.052	4	0	0
+Everson	4.050	0	0	0
+Rutland Town	4.010	0	0	0
+Aumsville	4.008	3	0	1
+Lewisburg	3.966	2	0	0
+Burlington	3.960	5	0	1
+Bristol	3.924	2	0	0
+Carmel	3.913	10	0	2
+Valdez	3.903	12	0	2
+Moxee	3.871	3	0	1
+Rocky Ford	3.850	5	1	0
+Florence	3.843	9	0	0
+Brandon	3.834	4	0	2
+Montesano	3.834	3	0	1
+Bosque Farms	3.834	22	0	
+Bishop5	3.833	38	0	2
+Nome	3.832	47	0	1
+Edgewood	3.821	7	0	
+Avalon	3.820	12	0	2
+Forks	3.759	17	0	4
+Mills	3.750	19	0	2
+Blanding	3.750	7	0	
+City of Angels5	3.738	17	0	1
+Platteville	3.729	1	0	1
+Wheatland	3.666	4	0	0
+Yuma	3.629	1	0	1
+Severance	3.611	3	0	1
+Quartzsite	3.598	27	0	1
+Monte Sereno	3.582	0	0	0
+Peralta	3.579	23	0	
+Kimberly	3.570	10	0	1
+Willcox	3.569	83	0	3
+Newcastle	3.512	1	0	0
+Wheatland	3.482	1	0	0
+Toledo	3.458	12	0	2
+Gooding	3.435	7	0	0
+St. Anthony	3.433	7	0	0
+Goldendale	3.433	14	0	2
+Granger	3.430	4	0	0
+Mount Angel	3.414	5	0	1
+Glasgow	3.413	4	0	1
+Norwich	3.380	0	0	0
+Rio Dell5	3.378	10	0	0
+Boardman9	3.354	20	0	6
+Mount Pleasant	3.315	5	0	
+Philippi	3.307	37	0	3
+Kotzebue	3.304	87	0	16
+Mount Shasta5	3.258	4	0	0
+Milan	3.254	15	0	
+Clyde Hill	3.251	0	0	0
+Medina	3.243	1	0	0
+Ripley	3.239	5	0	1
+Hubbard	3.231	0	0	0
+Heyburn	3.207	0	0	0
+Eunice	3.207	5	0	
+Algona	3.158	2	0	2
+Nyssa	3.142	5	0	
+Grangeville	3.139	4	0	2
+Zillah	3.138	1	0	0
+La Center	3.134	1	0	0
+Petersburg	3.130	10	0	1
+Orofino	3.111	5	0	0
+Williams	3.110	20	0	2
+Chester	3.079	4	0	0
+Kenova	3.068	8	0	2
+Bellows Falls	3.042	11	0	0
+Bandon	3.030	1	0	
+Yountville5	3.030	7	0	0
+Silt	3.030	1	0	0
+Yerington	3.026	2	0	1
+Cut Bank	3.025	12	0	0
+Thermopolis	3.024	1	0	1
+Nevada City5	3.020	14	0	2
+McCall	3.020	10	0	6
+Williamson	3.018	14	0	2
+Salmon	3.013	3	0	0
+Elma	2.997	4	0	1
+Deer Lodge	2.996	13	0	4
+Woodstock	2.986	1	0	0
+Wellton	2.973	15	0	0
+Frisco	2.971	3	0	1
+Soda Springs	2.960	3	0	0
+Hardwick	2.945	9	0	2
+Snowmass Village	2.918	1	0	1
+Eatonville	2.893	7	0	1
+Wolf Point	2.891	15	0	2
+Evansville	2.888	27	0	4
+Fayetteville	2.883	7	0	1
+Parowan	2.877	4	0	
+Pittsford	2.877	0	0	0
+Jacksonville	2.862	2	0	0
+Walsenburg	2.861	21	0	0
+Weed	2.836	31	1	3
+Colfax	2.835	7	0	2
+Berlin	2.830	12	3	0
+Clayton	2.797	4	0	
+Weathersfield	2.784	0	0	0
+Cle Elum	2.783	8	0	2
+Raymond	2.765	4	0	0
+Buena Vista	2.764	6	0	4
+Warden	2.761	0	0	0
+Kemmerer	2.753	6	0	3
+Ketchum	2.723	9	0	4
+Wellsburg	2.708	2	0	0
+Burns	2.704	0	0	0
+Santa Rosa	2.699	11	0	
+Wendell	2.688	5	0	0
+Milton	2.688	6	0	1
+Filer	2.686	0	0	0
+Libby	2.659	6	0	0
+Palisade	2.648	4	0	2
+Timnath	2.647	0	0	0
+Hudson	2.628	8	0	2
+Stallion Springs	2.611	3	0	0
+Conrad	2.609	6	0	0
+Gervais	2.601	11	0	1
+Chewelah	2.601	1	0	0
+Ruidoso Downs	2.598	20	0	
+Vergennes	2.597	4	0	0
+Leadville	2.597	5	0	0
+Thetford	2.591	0	0	0
+Glenrock	2.586	2	0	0
+Bayfield	2.580	7	0	1
+Homedale	2.573	12	0	1
+Lordsburg	2.570	10	0	
+Haines	2.567	10	0	1
+Alturas5	2.566	35	0	13
+Lake Shastina5	2.529	1	0	0
+Montpelier	2.523	5	0	2
+Pima	2.502	5	0	0
+Ross	2.500	0	0	0
+Salina	2.495	2	0	
+Moorefield	2.493	17	0	0
+Seward	2.489	13	0	1
+Bonners Ferry	2.475	0	0	0
+Sutter Creek5	2.457	12	0	2
+Rangely	2.439	2	0	2
+Bethlehem	2.429	4	0	0
+Meeker	2.423	4	0	0
+Garland	2.419	3	0	
+Wray	2.412	0	0	0
+Dillingham	2.411	43	0	15
+Carlin	2.364	21	0	2
+Wrangell	2.351	1	0	1
+Kalama	2.349	3	0	1
+Brewster	2.349	5	0	2
+Winfield	2.340	2	0	0
+Colstrip	2.339	1	0	0
+St. Maries	2.334	7	0	2
+White Salmon	2.333	6	0	2
+Mabton	2.302	3	0	0
+Lakeview	2.300	14	0	
+Bayard	2.299	17	0	
+Bellevue	2.296	6	0	0
+Westmorland5	2.278	5	0	0
+Naples	2.263	2	0	1
+Jal	2.252	5	0	
+Holyoke	2.249	5	0	1
+Gold Beach	2.245	4	0	
+Red Lodge	2.237	4	0	0
+Royal City	2.234	2	1	0
+Cordova	2.220	6	0	0
+Spencer	2.218	3	0	0
+North Pole	2.190	9	0	0
+Rogue River	2.189	4	0	0
+Center	2.188	6	0	3
+Shinnston	2.171	6	0	0
+Vernonia	2.155	4	0	2
+Castle Rock	2.145	4	0	0
+Belvedere	2.144	0	0	0
+Helper	2.129	0	0	0
+Fraser/Winter Park	2.098	1	0	0
+Parma	2.086	6	0	0
+East Helena	2.071	2	0	1
+La Salle	2.068	0	0	0
+Spirit Lake	2.067	3	0	1
+Carlton	2.053	2	0	2
+Kellogg	2.051	10	0	1
+Kamas	2.033	1	0	
+Kearny	2.024	0	0	0
+Columbus	2.021	2	0	0
+Monticello	2.004	1	0	
+Westport	2.002	5	0	2
+Afton	1.982	1	0	0
+Springerville	1.965	4	0	0
+Turner	1.957	3	0	2
+Baker	1.955	1	0	1
+Columbia City	1.955	1	0	0
+Belington	1.950	5	0	1
+Ronan City	1.942	22	0	2
+Aberdeen	1.939	0	0	0
+Hidden Hills	1.935	1	0	0
+Ludlow	1.929	3	0	0
+Stevensville	1.925	21	0	0
+Rainier	1.913	2	2	
+Rolling Hills	1.912	1	0	0
+Lovelock	1.904	12	0	1
+Limon	1.888	5	0	0
+Greybull	1.874	8	0	0
+Enterprise	1.872	0	0	
+Carnation	1.869	1	0	
+Coupeville	1.866	5	0	0
+McMechen	1.852	4	0	0
+Wilmington	1.834	2	0	0
+Moriarty	1.800	1	0	
+Granby	1.795	0	0	0
+Napavine	1.782	1	0	0
+Willard9	1.775	2	0	
+Miami	1.771	19	0	0
+Questa	1.769	0	0	
+Harrisville	1.767	0	0	0
+Priest River	1.753	1	0	0
+Pagosa Springs	1.749	5	0	0
+Clatskanie	1.746	0	0	
+Tenino	1.737	1	0	1
+Biggs5	1.712	24	0	1
+Idaho Springs	1.708	18	0	4
+Del Rey Oaks	1.696	5	0	2
+Cannon Beach	1.695	1	0	
+Saratoga	1.694	1	0	0
+Oroville	1.676	7	0	0
+Ritzville	1.671	2	0	1
+John Day	1.664	1	0	
+Santa Clara	1.661	4	0	
+Amity	1.635	2	0	1
+Ault	1.623	2	1	1
+Del Norte	1.614	4	0	0
+Wilder	1.613	3	0	0
+West Liberty	1.607	0	0	0
+Hatch	1.596	2	0	
+Estancia	1.594	30	0	
+Soap Lake	1.594	5	0	1
+Kettle Falls	1.590	2	0	0
+Manhattan	1.585	4	0	1
+South Bend	1.585	4	0	1
+East Carbon	1.584	2	0	
+Cosmopolis	1.575	0	0	0
+Dunsmuir5	1.557	2	0	1
+Crested Butte	1.556	3	0	1
+Glenville	1.540	1	0	0
+Colma5	1.531	12	0	1
+Gearhart	1.516	1	0	0
+Shoshone	1.500	4	0	1
+Fort Benton	1.497	3	0	2
+Osburn	1.493	2	0	1
+Hines	1.485	10	0	0
+Mammoth	1.476	1	0	0
+Glen Dale	1.473	5	0	0
+Marmet	1.461	0	0	0
+Moroni	1.457	0	0	
+Irwindale5	1.433	27	1	0
+Kittitas	1.425	1	0	0
+Sun Valley	1.414	3	0	0
+Elizabeth	1.404	0	0	0
+Springfield	1.394	3	0	1
+Centerfield	1.388	0	0	
+Mancos	1.387	0	0	0
+Montague5	1.385	1	0	0
+Benwood	1.369	0	0	0
+Woodway	1.362	0	0	0
+Ferndale5	1.362	1	0	0
+Mount Hope	1.361	3	0	0
+Sumas	1.357	1	0	1
+Columbine Valley	1.346	0	0	0
+Thompson Falls	1.343	6	0	0
+West Yellowstone	1.335	0	0	0
+Long Beach	1.335	2	0	1
+Fredonia	1.315	3	0	1
+Rockaway Beach	1.310	1	0	0
+Winlock	1.301	3	0	3
+Asotin	1.299	2	0	0
+Kamiah	1.298	7	0	2
+Fairview	1.277	1	0	
+Hurley	1.275	0	0	
+Dexter	1.275	4	0	
+Craig	1.265	7	0	0
+Tieton	1.260	1	0	0
+Sundance	1.252	4	0	0
+Boulder	1.207	12	0	0
+Keenesburg	1.206	3	0	0
+Cripple Creek	1.167	5	0	1
+Pine Bluffs	1.150	7	0	0
+Fowler	1.148	1	0	1
+Ponderay	1.136	2	0	0
+Texico	1.136	0	0	
+Angel Fire	1.123	25	0	
+Morton	1.115	3	0	0
+Parachute	1.103	5	1	0
+Bradbury	1.097	1	0	0
+Fountain Green	1.092	0	0	
+Coulee Dam	1.089	0	0	0
+Eureka	1.088	1	0	0
+Yarrow Point	1.078	0	0	0
+Plains	1.072	2	0	0
+Grand Coulee	1.056	2	0	0
+Skagway	1.049	0	0	0
+Challis	1.045	2	0	0
+Moorcroft	1.042	1	0	0
+Coburg	1.041	0	0	
+Ouray	1.025	8	0	0
+Tonasket	1.014	5	0	1
+Spring City	1.004	0	0	
+Tulelake5	983	2	0	0
+Logan	956	1	0	
+Carrizozo	945	0	0	
+Dillon	944	1	0	1
+Bristol Bay Borough	942	0	0	0
+Mason	941	1	0	0
+Twisp	941	1	0	1
+Troy	940	3	0	0
+Bow Mar	935	0	0	0
+Haxtun	929	4	0	1
+Cottonwood	922	3	0	0
+Cascade	917	3	0	0
+Cimarron	913	3	0	
+Magdalena	907	7	0	
+Hotchkiss	899	5	0	1
+Ilwaco	898	0	0	0
+Patagonia	895	2	0	0
+Dorris5	894	5	0	1
+Blue River	890	0	0	0
+Odessa	858	0	0	0
+St. Ignatius	853	2	0	0
+Hagerman	852	2	0	0
+Wilbur	837	1	0	0
+Isleton	834	4	0	0
+Hanna	829	2	0	0
+Mount Crested Butte	812	2	0	0
+Roy	808	5	0	0
+Ruston	802	1	0	0
+Calhan	800	1	0	0
+Malin	786	0	0	0
+Winhall	757	1	0	0
+Kiowa	747	0	0	0
+Mossyrock	742	2	0	0
+Diamondville	741	0	0	0
+Bridger	738	3	0	0
+Hugo	731	1	0	1
+Cuba	730	23	0	
+Ignacio	725	1	0	0
+Bingen	721	2	0	0
+Toledo	720	0	0	0
+Etna5	705	1	0	0
+Cloudcroft	693	3	0	
+Fort Jones5	680	2	0	1
+White Hall	662	1	0	0
+Oakville	658	0	0	0
+Stockton	639	1	0	
+Manzanita	617	0	0	0
+Hot Springs	553	5	0	0
+Springdale	553	3	0	
+Reardan	543	0	0	0
+Mountain View	526	2	0	0
+Walsh	519	0	0	0
+Beech Bottom	502	0	0	0
+Red River	481	6	1	
+Big Water	473	1	0	
+Jerome	453	1	0	0
+Morrison	433	0	0	0
+Winthrop	416	0	0	0
+Sand City	339	13	2	1
+Garden City	267	13	0	2
+Industry	206	68	0	1
+San Ysidro	194	0	0	
+Black Hawk	128	4	0	2
+Vernon5	115	28	1	1
+Campo	104	0	0	0
+Brian Head	86	1	0	
+Taos Ski Valley	69	0	0	
+Lakeside	8	1	0	0
+Black Butte	0	0	0	0
+Sunriver	0	0	0	0
