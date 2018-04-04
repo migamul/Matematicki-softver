@@ -1,52 +1,52 @@
-Alabama	532.3	42124
-Alaska	804.2	58356
-Arizona	470.1	43709
-Arkansas	550.9	40388
-California	445.3	66310
-Colorado	342.6	58422
-Connecticut	227.1	73643
-Delaware	508.8	73931
-District of Columbia	1205.9	186172
-Florida		430.3	44964
-Georgia	397.6	50955
-Hawaii	309.2	58742
-Idaho	230.3	39970
-Illinois	436.3	61837
-Indiana	404.7	51546
-Iowa	290.6	57028
-Kansas	380.4	52715
-Kentucky	232.3	44409
-Louisiana	566.1	50219
-Maine	123.8	44518
-Maryland	472.0	62874
-Massachusetts	376.9	74564
-Michigan	459.0	49076
-Minnesota	242.6	60716
-Mississippi	280.5	36029
-Missouri	519.4	49383
-Montana	368.3	44118
-Nebraska	291.0	60481
-Nevada	678.1	50161
-New Hampshire	197.6	58327
-New Jersey	245.0	64970
-New Mexico	702.5	44832
-New York	376.2	75360
-North Carolina	372.2	51041
-North Dakota	251.1	68723
-Ohio	300.3	53874
-Oklahoma	449.8	46625
-Oregon	264.6	55411
-Pennsylvania	316.4	56625
-Rhode Island	238.9	54365
-South Carolina	501.8	42272
-South Dakota	418.4	55623
-Tennessee	632.9	49430
-Texas	434.4	58028
-Utah	242.8	51243
-Vermont	158.3	49780
-Virginia	217.6	58768
-Washington	302.2	64454
-West Virginia	358.1	40071
-Winconsin	305.9	53565
-Wyoming	244.2	64659
+Alabama	532.3	2947.8	42124
+Alaska	804.2	3353.0	58356
+Arizona	470.1	2978.4	43709
+Arkansas	550.9	3268.6	40388
+California	445.3	2553.0	66310
+Colorado	342.6	2740.7	58422
+Connecticut	227.1	1808.0	73643
+Delaware	508.8	2766.0	73931
+District of Columbia	1205.9	4802.9	186172
+Florida	430.3	2686.8	44964
+Georgia	397.6	3004.5	50955
+Hawaii	309.2	2992.7	58742
+Idaho	230.3	1744.2	39970
+Illinois	436.3	2049.0	61837
+Indiana	404.7	2589.4	51546
+Iowa	290.6	2086.0	57028
+Kansas	380.4	2695.5	52715
+Kentucky	232.3	2189.7	44409
+Louisiana	566.1	3297.7	50219
+Maine	123.8	1645.7	44518
+Maryland	472.0	2284.5	62874
+Massachusetts	376.9	1561.1	74564
+Michigan	459.0	1909.9	49076
+Minnesota	242.6	2133.3	60716
+Mississippi	280.5	2768.1	36029
+Missouri	519.4	2799.1	49383
+Montana	368.3	2683.5	44118
+Nebraska	291.0	2263.3	60481
+Nevada	678.1	2586.6	50161
+New Hampshire	197.6	1512.9	58327
+New Jersey	245.0	1544.6	64970
+New Mexico	702.5	3937.1	44832
+New York	376.2	1545.6	75360
+North Carolina	372.2	2737.5	51041
+North Dakota	251.1	2295.9	68723
+Ohio	300.3	2577.5	53874
+Oklahoma	449.8	2982.9	46625
+Oregon	264.6	2964.4	55411
+Pennsylvania	316.4	1742.7	56625
+Rhode Island	238.9	1898.7	54365
+South Carolina	501.8	3243.8	42272
+South Dakota	418.4	1980.6	55623
+Tennessee	632.9	2854.1	49430
+Texas	434.4	2759.8	58028
+Utah	242.8	2951.5	51243
+Vermont	158.3	1697.4	49780
+Virginia	217.6	1859.4	58768
+Washington	302.2	3494.1	64454
+West Virginia	358.1	2047.2	40071
+Winconsin	305.9	1933.3	53565
+Wyoming	244.2	1957.3	64659
 
