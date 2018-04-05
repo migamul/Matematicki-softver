@@ -6,7 +6,6 @@ California	445.3	2553.0	66310
 Colorado	342.6	2740.7	58422
 Connecticut	227.1	1808.0	73643
 Delaware	508.8	2766.0	73931
-District of Columbia	1205.9	4802.9	186172
 Florida	430.3	2686.8	44964
 Georgia	397.6	3004.5	50955
 Hawaii	309.2	2992.7	58742
