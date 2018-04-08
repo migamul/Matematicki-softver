@@ -10,7 +10,7 @@ ANALIZA ZLOČINA U SJEDINJENIM AMERIČKIM DRŽAVAMA
   Dvije verzije:
   
     1) (bez folium) Analiza zlocina u Sjedinjenim Americkim Drzavama.ipynb
-        -> ukoliko imate problema sa skidanjem paketa folium, pregledajte ovu verziju (nedostaje jedna mapa SAD-a s mogućnošću            udaljavanja i približavanja)
+        -> ukoliko imate problema sa skidanjem paketa folium, pregledajte ovu verziju (nedostaje jedna mapa SAD-a s mogućnošću udaljavanja i približavanja)
     2) Analiza zlocina u Sjedinjenim Americkim Drzavama.ipynb
         -> verzija bilježnice s paketom folium
   
