@@ -22,4 +22,4 @@ ANALIZA ZLOČINA U SJEDINJENIM AMERIČKIM DRŽAVAMA
   
 2.zadaća:
 
-Latex - Fibonaccijevi brojevi
+LaTeX - Fibonaccijevi brojevi
