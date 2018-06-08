@@ -20,3 +20,6 @@ ANALIZA ZLOČINA U SJEDINJENIM AMERIČKIM DRŽAVAMA
     - folium -> za prikaz interaktivne mape
 
   
+2.zadaća:
+
+Latex - Fibonaccijevi brojevi
